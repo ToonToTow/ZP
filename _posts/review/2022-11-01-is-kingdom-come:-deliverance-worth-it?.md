@@ -18,10 +18,14 @@ The game tries to be as realistic as possible, it's more like a "mediveal simula
 
 #### Story
 The story is quite interesing and gripping and you get to have a lot of control over it. You can solve quests in multiple ways that alter the world and make you face the consequences of your decisions. Your actions influence the reactions of the people around you. Fight, steal, seduce, threaten, persuade, or bribe. It’s all up to you.
+
+![KDG gameplay](/assets/img/uploads/kcdg.jpg)
+
 #### Open world 
 It has a massive realistic world filled with cool castles, forests, fields and much more to explore. The atmosphere and historical accuracy are amazing.
 #### Combat
 The combat is very tough but extremely rewarding at the same time as it rewards patience and skill instead of just repeatedly spamming attacks. It will take some time to learn.
 
+#### Conclusion
 Everything is done to be as immersive as possible. If you like history, exploring, slow build for payoff, story or mediveal setting - then the game is for you.
 Kingdom Come: Deliverance is definitely worth it for the price and it goes very often on sale.

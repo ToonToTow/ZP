@@ -18,9 +18,11 @@ It’s been a couple years since the highly anticipated NMS’ launch. The fan r
 Do you enjoy exploring multi galaxies, building, and earning? Do you like fighting giant robots? Fighting pirates, being a pirate? Upgrading your own machinery? Then this game is definitely for you.
 The game lets you do whatever you want at any point that you want.
 
-Exploring, gathering and building are key components to the game, a very minecraft gameplay feel (but with a lot more content than MC). In the game you can explore massive galaxies with each of them being unique. 
+Exploring, gathering and building are key components to the game, a very minecraft gameplay feel (but with a lot more content than MC). In the game you can explore massive galaxies with each of them being unique.
 
 You can build your own fleet, upgrade your machinery and create big farms to earn for you. Build and upgrade your own base!
+
+![NMS gameplay](/assets/img/uploads/nmsg.jpg)
 
 There’s multiple difficulty modes, “Creative” where you can kick your feet up and build without threats, “Normal” and “Permadeath” being the most difficult mode.
 

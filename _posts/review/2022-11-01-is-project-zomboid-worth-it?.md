@@ -18,6 +18,8 @@ The game is still in early access, but do not get fooled by the label. It is a f
 ### Is Project Zomboid the game for you?
 In Project Zomboid you can loot, build, craft, fight, farm and fish to survive agains the zombies. Use tools and items to craft weapons, barricade and cook. You can even build zombie proof forts by chopping trees, sawing wood and scavenging supplies. Deal with depression, boredom, hunger, thirst, illness  and winter  while trying to survive.
 
+![PZ gameplay](/assets/img/uploads/pzg.jpg)
+
 ### Is Project Zomboid difficult?
 The game will definitely knock you around in your first hours of gameplay until you get used to it's mechanics.
 
